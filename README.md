@@ -19,7 +19,7 @@ Although the context is optical, the core of the project is highly quantitative:
 1. **Select a CSV albedo file** from the provided folder, e.g.:
 
 ```
-albedo/led_4000K_white.csv
+led_4000K_white.csv
 ```
 
 2. **Call the main function**:
@@ -39,7 +39,7 @@ couleur_reflexion(
 
 ```python
 couleur_reflexion(
-    "albedo/led_4000K_white.csv",
+    "led_4000K_white.csv",
     [1.05, 1.00, 1.20],  # light source XYZ inside mesh
     0,                    # source angle
     10,                   # captor angle
