@@ -1,4 +1,4 @@
-# Spectral BRDF Simulation and Color Reconstruction
+# Spectral BRDF Simulation and Color Reconstruction 
 
 This project computes the reflected color of a material when illuminated by a user-defined light source using spectral albedo data provided as CSV files.
 
